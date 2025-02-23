@@ -1,0 +1,6 @@
+selected resource name:		nyc_dataset_src
+selected resource type:		dataset
+factory name:			adf-nyc-taxi-om
+factory location:		eastus
+subscription id:		3f918f99-de83-42da-a167-22550430c810
+time of download (UTC):		Sun, 23 Feb 2025 05:36:50 GMT
